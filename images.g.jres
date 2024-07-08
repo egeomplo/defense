@@ -1,0 +1,42 @@
+{
+    "%Nv`L;BMS|J4G#KDSA0t": {
+        "data": "hwQIAAgAAAAA/wAA8MsPAL/8/w+//ET+v/xE/r/8/w/wyw8AAP8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pickaxe"
+    },
+    "2)v;)Yl+Ft}A!I3o[ka:": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAYGZmDAAAAGCWmZlmDAAAlplmlpnGAACWZgBglsYAYJkGYAyWaQxgaQCWxmBpDGBpAJbGYGkMYGkAlsZgaQxgaQCWxmBpDGCZBmAMlmkMAJZmAGCWxgAAlplmlpnGAABglpmZZgwAAABgZmYMAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAICIiDAAAACCiqqoiDAAAoqoioqrCAACiIgAgosIAIKoCIAyiKgwgKgCiwiAqDCAqAKLCICoMICoAosIgKgwgKgCiwiAqDCCqAiAMoioMAKIiACCiwgAAoqoioqrCAAAgoqqqIgwAAAAgIiIMAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Monster"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAEBERDAAAABDx//8RDAAA8f8R8f/BAADxEQAQ8cEAEP8BEAzxHwwQHwDxwRAfDBAfAPHBEB8MEB8A8cEQHwwQHwDxwRAfDBD/ARAM8R8MAPERABDxwQAA8f8R8f/BAAAQ8f//EQwAAAAQEREMAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerHurt"
+    },
+    "qn!|PYvthKR[E`-$-/?B": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVAAAAUFVVVVUFAABVRUREVFUAAFVEREREVQAAVURERERVAABVRERERFUAAFVEREREVQAAVURERERVAABVRERERFUAAFVFRERUVQAAUFVVVVUFAAAAVVVVVQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bullet"
+    },
+    "image3": {
+        "data": "hwQIAAgAAAAA//8A8IaID/CGiA/whv8P8IZPD/CG/wDwhg8A8P8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blaster"
+    },
+    "{*7m*c3pW26$jK;@FiN=": {
+        "data": "hwQIAAgAAADw//8PT05O/k9OTv7vTu7+T+5O/k9OTv5PTk7+8P//Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "WoodBlock"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
